@@ -1,7 +1,7 @@
 #include "exec.h"
 
 int exec(char** args){
-  char ** cmds
+  char ** cmds;
   char ** bcmds;
   int cmdlength, restlength;
   for(cmdlength = 0 ; args[cmdlength]; cmdlength+=1){}
