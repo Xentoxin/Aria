@@ -17,4 +17,4 @@ by Haoyu Chen
 ### Files and Headers
 * parser.c
 ```
-** char **parser **
+**char **parser()**
