@@ -17,4 +17,4 @@ by Haoyu Chen
 ### Files and Headers
 * parser.c
 ```
-__ __ bold text? __ __ 
+** char **parser **
